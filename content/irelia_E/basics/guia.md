@@ -2,7 +2,7 @@
 
 ## Runas
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/irelia_E_runas.png" width="480" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/basics/irelia_simple_E_runas.png" width="480" title="Build">
 
 ---------------------------------------------
 
@@ -14,7 +14,7 @@
 
 ## Exemplo de Combo
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/irelia_simple_e.gif" width="282" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/basics/irelia_simple_E.gif" width="282" title="Build">
 
 ---------------------------------------------
 
