@@ -1,4 +1,4 @@
-# Guia pra treino do uso intermediário do R da Irelia
+# Guia pra treino do uso avançado do R da Irelia
 
 ## Runas
 
