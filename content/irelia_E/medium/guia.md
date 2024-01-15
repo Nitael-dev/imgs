@@ -2,7 +2,7 @@
 
 ## Runas
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/medium/irelia_medium_E_runas.png" width="480" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_runas.png" width="480" title="Build">
 
 ---------------------------------------------
 
