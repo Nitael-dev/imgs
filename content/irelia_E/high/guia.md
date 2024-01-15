@@ -1,8 +1,8 @@
-# Guia pra treino do uso básico do E da Irelia
+# Guia pra treino do uso avançado do E da Irelia
 
 ## Runas
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/medium/irelia_medium_E_runas.png" width="480" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/high/irelia_high_E_runas.png" width="480" title="Build">
 
 ---------------------------------------------
 
@@ -14,7 +14,7 @@
 
 ## Exemplo de Combo
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/medium/irelia_medium_E.gif" width="282" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/high/irelia_high_E.gif" width="282" title="Build">
 
 ---------------------------------------------
 
