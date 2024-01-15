@@ -1,4 +1,4 @@
-# Guia pra treino do uso básico do E da Irelia
+# Guia pra treino do uso intermediário do E da Irelia
 
 ## Runas
 
