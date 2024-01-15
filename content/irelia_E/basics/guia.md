@@ -32,6 +32,6 @@
 
 ## Metas
 
-### Conseguir pelo menos 800 de dps no boneco de treino 5x e ao menos 2x seguidas seguindo o combo do gif
+### https://www.notion.so/Irelia-Coach-24f670a27ef64cfd84c0a5ce74314ef7?pvs=4
 
 ---------------------------------------------
