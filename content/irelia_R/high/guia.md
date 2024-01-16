@@ -8,7 +8,7 @@
 
 ## Itens pra buildar
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_R/irelia_R_build.png" width="112" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_fullbuild.png" width="112" title="Build">
 
 ---------------------------------------------
 
