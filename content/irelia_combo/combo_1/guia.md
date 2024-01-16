@@ -1,32 +1,32 @@
-# Guia pra treino do uso básico do E da Irelia
+# Guia pra treino de COMBO Irelia
 
 ## Runas
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/basics/irelia_simple_E_runas.png" width="480" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_runas.png" width="480" title="Build">
 
 ---------------------------------------------
 
 ## Itens pra buildar
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/build_irelia_E.png" width="112" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_fullbuild.png" width="112" title="Build">
 
 ---------------------------------------------
 
 ## Exemplo de Combo
 
-<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_E/basics/irelia_simple_E.gif" width="282" title="Build">
+<img src="https://github.com/Nitael-dev/imgs/blob/master/content/irelia_combo/combo_1/irelia_combo.gif" width="282" title="Build">
 
 ---------------------------------------------
 
 ## Combo
 
-### E1, E2, AA, Q, AA, Q
+### B3(E1), B1(AA, R, AA, Q, AA), B2(Q, AA), B3(Q, AA), B4(Q, B2[E2], AA), B2(Q, AA), B1(Q, AA), B3(Q, AA, Q, AA)
 
 ---------------------------------------------
 
 ## Condições
 
-### Passiva stackada e conquistador stackado (nível no exemplo)
+### Passiva stackada e conquistador stackado (nível no exemplo, NÃO USAR ATIVO DA ESPADA DO REI)
 
 ---------------------------------------------
 
